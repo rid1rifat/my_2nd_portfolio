@@ -12,7 +12,10 @@ h3{
     color: chocolate;
 }
 .span{
-    color:darkgoldenrod
+    color:rgb(246, 113, 3)
+}
+.span2{
+    color:dodgerblue
 }
 h4{
     font-size: 25px;
